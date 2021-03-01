@@ -4,7 +4,7 @@
 
 ##### Disciplina Programação WEB de Desenvolvimento de Sistemas SENAI Bahia 2021.1
 
-Demonstração:
+Demonstração 2.0:
 
 <img src="https://github.com/tayhsn/boxes-css/blob/main/demo.png">
 
